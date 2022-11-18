@@ -24,7 +24,7 @@ title: Chris Cockerill                          # the main title
 tagline: Mathematician, Applied Data Science, Computing Enthusiast   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A Mathematician, Applied Data Science & Machine Learning
+  A data blog
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: ''https://ruston3.github.io/''
