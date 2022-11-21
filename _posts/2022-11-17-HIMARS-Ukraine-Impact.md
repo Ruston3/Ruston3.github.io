@@ -66,18 +66,18 @@ ax.axvspan('2022-06-23', '2022-11-17', color = 'g', alpha = 0.5, zorder = 0);
 
 The green shaded area being the time when Ukraine first took HIMARS systems into its possession from the USA.
 
-![Tank Loss](assets/img/HIMARSimg/tank_loss.png){: .mx-auto.d-block :}
+![Tank Loss](../assets/img/HIMARSimg/tank_loss.png){: .mx-auto.d-block :}
 
 Given that HIMARS is a mobile artillery unit, it's deployment in June is unlikely to correlate with Russian aerial or naval losses as it is intended for use against stationary ground targets.
 
 This is what we would expect, as typical targets for HIMARS are used best against stationary ground targets.  Other preferred targets would include Armored Personnel Carriers (APC's) and Field Artillery
 
-![APC Loss](assets/img/HIMARSimg/APC_loss.png){: .mx-auto.d-block :}
+![APC Loss](../assets/img/HIMARSimg/APC_loss.png){: .mx-auto.d-block :}
 
-![Field Artillery Loss](assets/img/HIMARSimg/field_artillery.png){: .mx-auto.d-block :}
+![Field Artillery Loss](../assets/img/HIMARSimg/field_artillery.png){: .mx-auto.d-block :}
 
 To further demonstrate that it is the HIMARS themselves that have made the impact, we can see that there has not been the same shift in daily losses against Russian assets that are not HIMARS targets.  Take this graph of the daily losses of aircraft for example:
 
-![Aircraft Loss](assets/img/HIMARSimg/aircraft_loss.png){: .mx-auto.d-block :}
+![Aircraft Loss](../assets/img/HIMARSimg/aircraft_loss.png){: .mx-auto.d-block :}
 
 That there are only 16 HIMARS systems in Ukraine to service the entire 2,500 km frontline, their visible effect to shift the momentum of the war has been nothing short of impressive.
