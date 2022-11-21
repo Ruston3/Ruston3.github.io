@@ -57,4 +57,4 @@ y = df_num['tank'].rolling(window = 30).mean().dropna()
 
 We can then visualise this with the green shaded area being the time when Ukraine first took HIMARS systems into its possession from the USA.
 
-![Tank Loss](https://github.com/Ruston3/Ruston3.github.io/blob/master/assets/img/ukrainewar/tank_loss.png){: .mx-auto.d-block :}
+![Tank Loss](assets/img/HIMARSimg/tank_loss.png){: .mx-auto.d-block :}
