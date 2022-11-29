@@ -18,4 +18,4 @@ The Mexican government released a dataset of over 1 million patients over the ea
 
 Individual probabilities can be calculated to see how certain the algorithm is that its patient classification is correct.  These probabilities can be used to prioritize patients if there were a shortage of beds or other hospital resources.
 
-The full notebook can be seen [here]().
+The full notebook can be seen [here](/COVID_risk_predictor.html).
